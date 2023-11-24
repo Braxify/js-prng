@@ -1,1 +1,1 @@
-# js-prng
+# js-xorshift
